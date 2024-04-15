@@ -1,7 +1,7 @@
 # Desafio Profissional
 
 O Desafio em si, é uma máteria da faculdade, onde temos que desenvolver um projeto,
-utilizando: Node.JS, TypeScript, Express/Fastify, Mongoose/Prisma.
+utilizando: Node.JS, TypeScript, Fastify/Express, Prisma/Mongoose.
 A função desta matéria, é o desenvolvimento de uma API partindo do zero,
 até a implemtenção das regras de negócio, autenticação, testes e muito mais.
 
