@@ -6,7 +6,7 @@ A função desta matéria, é o desenvolvimento de uma API partindo do zero,
 até a implemtenção das regras de negócio, autenticação, testes e muito mais.
 
 The Challenge itself is a college assignment where we have to develop a project,
-using: Node.JS, TypeScript, Express/Fastify, Mongoose/Prisma.
+using: Node.JS, TypeScript, Fastify/Express, Prisma/Mongoose.
 The purpose of this subject is to develop an API from scratch,
 up to implementing the business rules, authentication, tests and much more.
 
