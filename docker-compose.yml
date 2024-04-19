@@ -1,0 +1,16 @@
+version: "3"
+
+services:
+  db-postgres:
+    image: postgres:alpine
+    ports:
+      - "5432:5432"
+    container_name: "db-postgres"
+    restart: always
+    volumes:
+     - ./data-bkp:/var/lib/postgresql/data
+    environment:
+      POSTGRES_USER: api
+      POSTGRES_PASSWORD: api
+      POSTGRES_DB: "api"
+
